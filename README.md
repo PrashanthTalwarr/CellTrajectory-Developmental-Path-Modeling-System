@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CellTrajectory: Developmental Path Modeling System
 
 ## Overview
@@ -258,4 +258,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Human hematopoiesis dataset from Velten et al., *Nature Cell Biology* (2017)
 - Based on methodologies from the field of computational single-cell genomics
 - Inspired by the need to better understand rare cell populations in development
->>>>>>> 64a50bdb4c030a50ac4a075c9d8a5499b60a44a6
+
+
